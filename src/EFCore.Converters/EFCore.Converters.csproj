@@ -14,10 +14,10 @@
 			the overriding of the ConfigureConventions method. These converters enable flexible and personalized data 
 			transformation between database data types and application data types.
 		</Description>
-		<RepositoryUrl>https://github.com/Q-rtix/EFCore</RepositoryUrl>
+		<RepositoryUrl>https://github.com/carlosjortiz/EFCore</RepositoryUrl>
 		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 		<Title>EFCore.Converters</Title>
-		<Version>1.0.0</Version>
+		<Version>1.1.0</Version>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 		<RepositoryType>git</RepositoryType>
 		<PackageId>Qrtix.EFCore.Converters</PackageId>
@@ -28,7 +28,7 @@
 			Converter
 		</PackageTags>
 		<Copyright>Copyright (c) Carlos J. Ortiz. All rights reserved.</Copyright>
-		<PackageProjectUrl>https://github.com/users/Q-rtix/projects/1</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/users/carlosjortiz/projects/1</PackageProjectUrl>
 	</PropertyGroup>
 
 	<PropertyGroup Condition=" '$(Configuration)' == 'Release' ">

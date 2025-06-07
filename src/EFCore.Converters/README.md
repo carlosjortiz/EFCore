@@ -2,11 +2,11 @@
 
 ![NuGet Version](https://img.shields.io/nuget/v/Qrtix.EFCore.Converters?logo=nuget)
 ![NuGet Downloads](https://img.shields.io/nuget/dt/Qrtix.EFCore.Converters?style=flat&logo=nuget)
-![GitHub Repo stars](https://img.shields.io/github/stars/Q-rtix/EFCore?style=flat&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosjortiz/EFCore?style=flat&logo=github)
 
 This library offers a range of custom converters that can be integrated into Entity Framework Core through the overriding of the ConfigureConventions method. These converters enable flexible and personalized data transformation between database data types and application data types.
 
-Consult the online [documentation](https://q-rtix.github.io/EFCore/) for more details.
+Consult the online [documentation](https://carlosjortiz.github.io/EFCore/) for more details.
 
 ## Table of Contents
 
@@ -59,9 +59,9 @@ protected override void ConfigureConventions(ModelConfigurationBuilder configura
 **Did you find a bug?**
 
 - Ensure the bug was not already reported by searching on GitHub
-  under [Issues](https://github.com/Q-rtix/EFCore/issues).
+  under [Issues](https://github.com/carlosjortiz/EFCore/issues).
 - If you're unable to find an open issue addressing the
-  problem, [open a new one](https://github.com/Q-rtix/EFCore/issues/new). Be sure to include a title and clear
+  problem, [open a new one](https://github.com/carlosjortiz/EFCore/issues/new). Be sure to include a title and clear
   description, as much relevant information as possible, and a code sample or an executable test case demonstrating the
   expected behavior that is not occurring.
 
@@ -72,7 +72,7 @@ protected override void ConfigureConventions(ModelConfigurationBuilder configura
 
 **Do you intend to add a new feature or change an existing one?**
 
-- First suggest your change in the [EFCore ideas page](https://github.com/Q-rtix/EFCore/discussions/categories/ideas)
+- First suggest your change in the [EFCore ideas page](https://github.com/carlosjortiz/EFCore/discussions/categories/ideas)
   for discussion.
 - There are no fixed rules on what should and shouldn't be in this library, but some features are more valuable than
   others, and some require long-term maintenance that outweighs the value of the feature. So please get sign-off from
@@ -82,4 +82,4 @@ protected override void ConfigureConventions(ModelConfigurationBuilder configura
 **Do you have questions about the source code?**
 
 - Ask any question about how to use EFCore in
-  the [EFCore discussion page](https://github.com/Q-rtix/EFCore/discussions/new?category=q-a).
+  the [EFCore discussion page](https://github.com/carlosjortiz/EFCore/discussions/new?category=q-a).

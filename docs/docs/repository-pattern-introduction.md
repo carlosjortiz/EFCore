@@ -38,7 +38,7 @@ via NuGet Package Manager. Once installed, you can begin using the provided repo
 interfaces (`IRepository<TEntity>`) and unit of work interface (`IUnitOfWork`) to interact with your database in a
 structured and modular manner.
 
-Consult the [Getting Started](https://q-rtix.github.io/EFCore/docs/repository-pattern-getting-started.html) section for more details.
+Consult the [Getting Started](https://carlosjortiz.github.io/EFCore/docs/repository-pattern-getting-started.html) section for more details.
 
 ## How to Use This Documentation:
 
