@@ -2,7 +2,7 @@
 
 ![NuGet Version](https://img.shields.io/nuget/v/Qrtix.EFCore.Converters?logo=nuget&label=EFCore.Converters)
 ![NuGet Version](https://img.shields.io/nuget/v/Qrtix.EFCore.RepositoryPattern?style=flat&logo=nuget&label=EFCore.RepositoryPattern)
-![GitHub Repo stars](https://img.shields.io/github/stars/Q-rtix/EFCore?style=flat&logo=github)
+![GitHub Repo stars](https://img.shields.io/github/stars/carlosjortiz/EFCore?style=flat&logo=github)
 
 
 Welcome to the documentation for EFCore libraries! This documentation serves as a comprehensive guide to using these
@@ -10,7 +10,7 @@ libraries effectively in your .NET projects. Whether you're a beginner looking t
 an experienced developer seeking to streamline database operations with `EFCore.RepositoryPattern`, you'll find everything
 you need to know right here.
 
-Consult the online [documentation](https://q-rtix.github.io/EFCore/) for more details.
+Consult the online [documentation](https://carlosjortiz.github.io/EFCore/) for more details.
 
 - [About EFCore.Converters](#about-efcoreconverters)
 - [About EFCore.RepositoryPattern](#about-efcorerepositorypattern)
@@ -62,9 +62,9 @@ in and explore the capabilities of these libraries together!
 **Did you find a bug?**
 
 - Ensure the bug was not already reported by searching on GitHub
-  under [Issues](https://github.com/Q-rtix/EFCore/issues).
+  under [Issues](https://github.com/carlosjortiz/EFCore/issues).
 - If you're unable to find an open issue addressing the
-  problem, [open a new one](https://github.com/Q-rtix/EFCore/issues/new). Be sure to include a title and clear
+  problem, [open a new one](https://github.com/carlosjortiz/EFCore/issues/new). Be sure to include a title and clear
   description, as much relevant information as possible, and a code sample or an executable test case demonstrating the
   expected behavior that is not occurring.
 
@@ -75,7 +75,7 @@ in and explore the capabilities of these libraries together!
 
 **Do you intend to add a new feature or change an existing one?**
 
-- First suggest your change in the [EFCore ideas page](https://github.com/Q-rtix/EFCore/discussions/categories/ideas)
+- First suggest your change in the [EFCore ideas page](https://github.com/carlosjortiz/EFCore/discussions/categories/ideas)
   for discussion.
 - There are no fixed rules on what should and shouldn't be in this library, but some features are more valuable than
   others, and some require long-term maintenance that outweighs the value of the feature. So please get sign-off from
@@ -85,7 +85,7 @@ in and explore the capabilities of these libraries together!
 **Do you have questions about the source code?**
 
 - Ask any question about how to use EFCore in
-  the [EFCore discussion page](https://github.com/Q-rtix/EFCore/discussions/new?category=q-a).
+  the [EFCore discussion page](https://github.com/carlosjortiz/EFCore/discussions/new?category=q-a).
 
 
 If you have any questions or need further assistance, don't hesitate to reach out to us.
